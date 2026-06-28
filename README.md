@@ -80,7 +80,7 @@ Student-Marks-Analysis/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Student-Marks-Analysis.git
+git clone https://github.com/gayatori-san/unprof_pyai_7
 ```
 
 Move into the project folder:
