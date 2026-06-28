@@ -261,20 +261,6 @@ chart7_top3_trend.png
 
 ---
 
-# 📌 Learning Outcomes
-
-By completing this project, you will learn how to:
-
-* Build DataFrames using Pandas
-* Clean and preprocess datasets
-* Calculate statistical metrics
-* Work with multiple visualization techniques
-* Create dashboards using Matplotlib
-* Save graphs as image files
-* Analyze student performance using Python
-
----
-
 # 📷 Output
 
 The program generates and saves the following images:
